@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMT-800
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Q_NMOS_SDG
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP tl783
+D Linear Regulator +ADJ 150V
+K POWER REGUL 150v
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+#End Doc Library
